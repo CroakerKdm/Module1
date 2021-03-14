@@ -5,7 +5,7 @@ package Cycle;
  * @version 1.0.0
  * @project Module1
  * @class Integal
- * @since 14.03.2021 - 15.40
+ * @since 13.03.2021 - 15.40
  **/
 
 public class Integral {

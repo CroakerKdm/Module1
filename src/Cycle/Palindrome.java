@@ -5,7 +5,7 @@ package Cycle;
  * @version 1.0.0
  * @project Module1
  * @class Palindrome
- * @since 14.03.2021 - 15.25
+ * @since 13.03.2021 - 15.25
  **/
 
 public class Palindrome {
